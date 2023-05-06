@@ -2,7 +2,7 @@
 
 ---
 
-![Terraform: De principiante a certificado](/images/Portada%20curso.png)
+![Terraform: De principiante a certificado](/images/Portada%20curso.jpg)
 
 ---
 
